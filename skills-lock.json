@@ -103,6 +103,12 @@
       "skillPath": "skills/fixing-accessibility/SKILL.md",
       "computedHash": "4fa8f5a772b4eef3d28a54c136b507d070e54e2c326578f65eaf5e5a0118b38a"
     },
+    "herdr": {
+      "source": "ogulcancelik/herdr",
+      "sourceType": "github",
+      "skillPath": "SKILL.md",
+      "computedHash": "aca2135cfc95028d121d6b4384f9ab9ddd9272a923d19b8a59bf173c7f7f3266"
+    },
     "improve": {
       "source": "shadcn/improve",
       "sourceType": "github",
