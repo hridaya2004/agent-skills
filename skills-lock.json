@@ -23,19 +23,19 @@
       "source": "jakubkrehel/skills",
       "sourceType": "github",
       "skillPath": "skills/better-colors/SKILL.md",
-      "computedHash": "018f47015d71a146963d05aa592ded3f885917b11d021b981d8b0148422f953e"
+      "computedHash": "aee99741f731a9cbc0c2f3c782bdaaa39d4e4fedb657a7bdc80a6519f9a9a0da"
     },
     "better-typography": {
       "source": "jakubkrehel/skills",
       "sourceType": "github",
       "skillPath": "skills/better-typography/SKILL.md",
-      "computedHash": "84642a2f7ad030fdcef18bf654c3cbf9e63347259a2229bc3b2e6bd9540eca27"
+      "computedHash": "a43f293432e6df33b62553b67bc1c60e01f7ec66894da9d6bdb8fb95027f6d8d"
     },
     "better-ui": {
       "source": "jakubkrehel/skills",
       "sourceType": "github",
       "skillPath": "skills/better-ui/SKILL.md",
-      "computedHash": "cb08e0fc63bdd829277770815d645979e0661ae5717dfb01e39a921138b684da"
+      "computedHash": "d9924d70217ff33a659bafcf78b68189156c406c633e4e958c7d764b3b528517"
     },
     "cavecrew": {
       "source": "JuliusBrussee/caveman",
@@ -110,10 +110,22 @@
       "computedHash": "8a8ecafd613f09e701330b5aa4a591ac539abb2605596df4a2394f03628d1d76"
     },
     "herdr": {
-      "source": "ogulcancelik/herdr",
+      "source": "herdrdev/herdr",
       "sourceType": "github",
-      "skillPath": "SKILL.md",
-      "computedHash": "e5efa9a1eccf6d6228b24d57c4d9fde0c6ffdfd11be8381e41d482208d91287d"
+      "skillPath": "skills/herdr/SKILL.md",
+      "computedHash": "489d2c6ff7e951e47071fbc5446d99d20ea215fcc5e55b9e4ceaa5a578f22d06"
+    },
+    "herdr-pre-release-audit": {
+      "source": "herdrdev/herdr",
+      "sourceType": "github",
+      "skillPath": ".agents/skills/herdr-pre-release-audit/SKILL.md",
+      "computedHash": "0e33b2247ce9d2890ec17bf5ff7dcd0de4d2d483c438bcb8348155dd5e676eec"
+    },
+    "herdr-throwaway-repro": {
+      "source": "herdrdev/herdr",
+      "sourceType": "github",
+      "skillPath": ".agents/skills/herdr-throwaway-repro/SKILL.md",
+      "computedHash": "aac5895d08d2300bc57ae2d41578e76ce4927e1ae609291279f53805d92a97b7"
     },
     "improve": {
       "source": "shadcn/improve",
@@ -131,7 +143,7 @@
       "source": "jakubkrehel/make-interfaces-feel-better",
       "sourceType": "github",
       "skillPath": "skills/make-interfaces-feel-better/SKILL.md",
-      "computedHash": "8e3423e467eae12f3748ca1a365a668105ac59dbb0fdd50e66b45a40bb581950"
+      "computedHash": "c8b15b529e088a318b2d3c17f0a97e15a7b1ce9ddab8bbdf9209e6ab7315cbde"
     },
     "pick-ui-library": {
       "source": "emilkowalski/skills",
@@ -161,7 +173,13 @@
       "source": "shadcn-ui/ui",
       "sourceType": "github",
       "skillPath": "skills/shadcn/SKILL.md",
-      "computedHash": "d81caa0f86aabab65b25e302d454f23a3328760386ed9078345584c0d5c8058e"
+      "computedHash": "c1a68ee06a668aced9ab2b5fbdea5f989864123794eb2e056b339a072dbb7f10"
+    },
+    "triage": {
+      "source": "herdrdev/herdr",
+      "sourceType": "github",
+      "skillPath": ".agents/skills/triage/SKILL.md",
+      "computedHash": "32bab6909de096498f075478f73e5d33fd294586c823cccb1bcfc1e78645f07f"
     },
     "vercel-react-best-practices": {
       "source": "vercel-labs/agent-skills",
