@@ -19,6 +19,12 @@
       "skillPath": "build-system/agp/agp-9-upgrade/SKILL.md",
       "computedHash": "89bc55c0459765a9168570433d9166dec4188eab74dd1a7718387ea459c80bb9"
     },
+    "android-clean-architecture": {
+      "source": "affaan-m/ecc",
+      "sourceType": "github",
+      "skillPath": "skills/android-clean-architecture/SKILL.md",
+      "computedHash": "80779b595f194a1ca3d59e36cbf4b29f426faaf90cf9c41dfd61a80442214890"
+    },
     "android-cli": {
       "source": "android/skills",
       "sourceType": "github",
